@@ -11,12 +11,13 @@
       </p>
       <p>
         <b>📫 Conecte-se comigo:</b><br>
-        <a href="mailto:SEU-EMAIL-AQUI@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-        <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="mailto:rafaelaeduardadeoliveira951@gmail.com
+@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+        <a href="https://www.linkedin.com/Rafaela091/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
       </p>
     </td>
     <td width="40%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/platane/platane/master/github-readme-stats-illustration.svg" width="300" alt="Ilustração de código" />
+      <img src="cropped_circle_image.png" width="300" height="300" style="border-radius: 50%; object-fit: cover;" alt="Minha Foto" />
     </td>
   </tr>
 </table>
@@ -70,11 +71,13 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
-<br>
 
 ## 📊 Analytics do Perfil
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Rafaela091&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafaela091&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="Estatísticas da Rafaela" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaela091&layout=compact&theme=tokyonight&langs_count=5&hide_border=true" height="150" alt="Linguagens mais usadas" />
+  <img src="github-user-contribution (1).svg" alt="GitHub Contribution Snake" />
 </div>
+<br>
