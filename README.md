@@ -37,8 +37,8 @@
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
-| **[Classificador Oncológico CV](#)** | Pipeline de Deep Learning para segmentação e classificação de lesões de câncer de mama em imagens médicas. | `PyTorch` `U-Net` `ViT` |
-| **[VISIAGRO](#)** | Sistema de Visão Computacional aplicado ao agronegócio para detecção automatizada de pragas na cultura da soja. | `OpenCV` `Python` `YOLO` |
+| **[Classificador Oncológico CV](https://github.com/Deteccao-de-cancer-de-mama-Grupo-02)** | Pipeline de Deep Learning para segmentação e classificação de lesões de câncer de mama em imagens médicas. | `PyTorch` `U-Net` `ViT` |
+| **[VISIAGRO](https://github.com/projeto-integrador-3-semestre)** | Sistema de Visão Computacional aplicado ao agronegócio para detecção automatizada de pragas na cultura da soja. | `OpenCV` `Python` `YOLO` |
 | **[MLOps: Qualidade da Água](https://github.com/Rafaela091/mlops-qualidade-agua)** | Esteira completa de MLOps para predição de potabilidade da água, incluindo versionamento de dados, tracking de experimentos e deploy de modelo. | `MLflow` `DVC` `FastAPI` |
 
 *(Dica: Substitua o caractere `#` na tabela acima pelos links reais dos seus outros dois repositórios para que os recrutadores possam clicar e acessar seus códigos diretamente).*
