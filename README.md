@@ -10,7 +10,7 @@
         Desenvolvedora orientada a dados com forte atuação em Visão Computacional e arquitetura MLOps. Focada em traduzir problemas complexos de negócios e pesquisa médica e agrícola em modelos preditivos escaláveis.
       </p>
       <p>
-        <b>📫 Conecte-se comigo:</b><br>
+        <b> Conecte-se comigo:</b><br>
         <a href="mailto:rafaelaeduardadeoliveira951@gmail.com
 @gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
         <a href="https://www.linkedin.com/Rafaela091/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -24,16 +24,16 @@
 
 <br>
 
-## 📌 Perfil Técnico & Acadêmico
+## Perfil Técnico & Acadêmico
 
-- 🎓 Graduanda em **Ciência de Dados** (Biopark Edu), aliando rigor acadêmico com as melhores práticas de mercado.
-- ⚙️ **Engenharia MLOps:** Experiência prática com versionamento de dados e modelos (DVC, MLflow), conteinerização (Docker) e deploy de APIs (FastAPI, BentoML).
-- 🧠 **Visão Computacional & Deep Learning:** Desenvolvimento de pipelines para a área oncológica (CMMD/CBIS-DDSM utilizando *Vision Transformers* e *U-Net*) e para o agronegócio (VISIAGRO - aplicação apresentada em congresso).
-- 🌐 **Visão Global:** Nivelamento avançado em Francês (B2 / NCLC 7) voltado à expansão e mobilidade profissional internacional.
+- Graduanda em **Ciência de Dados** (Biopark Edu), aliando rigor acadêmico com as melhores práticas de mercado.
+- **Engenharia MLOps:** Experiência prática com versionamento de dados e modelos (DVC, MLflow), conteinerização (Docker) e deploy de APIs (FastAPI, BentoML).
+-  **Visão Computacional & Deep Learning:** Desenvolvimento de pipelines para a área oncológica (CMMD/CBIS-DDSM utilizando *Vision Transformers* e *U-Net*) e para o agronegócio (VISIAGRO - aplicação apresentada em congresso).
+-  **Visão Global:** Nivelamento avançado em Francês (B2 / NCLC 7) voltado à expansão e mobilidade profissional internacional.
 
 <br>
 
-## 🚀 Projetos em Destaque
+## Projetos em Destaque
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
@@ -45,9 +45,9 @@
 
 <br>
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
-**🤖 IA, Data Science & Visão Computacional**
+** IA, Data Science & Visão Computacional**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-**⚙️ MLOps & Engenharia de Dados**
+** MLOps & Engenharia de Dados**
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Git_&_DVC-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -65,14 +65,14 @@
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/BentoML-1D2935?style=for-the-badge&logo=bentoml&logoColor=white" />
 
-**💻 Bancos de Dados & Desenvolvimento**
+** Bancos de Dados & Desenvolvimento**
 <br>
 <img src="https://img.shields.io/badge/SQL_(_SQLite_&_DuckDB_)-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 
 
-## 📊 Analytics do Perfil
+## Analytics do Perfil
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=Rafaela091&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
